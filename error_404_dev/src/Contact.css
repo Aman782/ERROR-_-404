@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Contact{
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(222, 196, 162);
+    height: 15rem;
+    width: 35%;
+}
+
+.Contact form input{
+    margin: 1rem;
+    border-radius: 0.4rem;
+}
+
+form{
+    font-size: 1rem;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}  
+
+button{
+    border-radius: 1.4rem;
+    width: 4.3rem;
+}

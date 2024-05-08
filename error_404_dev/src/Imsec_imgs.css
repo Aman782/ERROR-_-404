@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Ims{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.Ims img{
+    margin: 2rem;
+    height: 16rem;
+    border-radius: 2rem;
+}
